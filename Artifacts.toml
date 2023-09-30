@@ -1,0 +1,26 @@
+[[Intel_XED]]
+arch = "x86_64"
+git-tree-sha1 = "2a23942b75e1204c39de49e173dba0a8852f9f39"
+libc = "glibc"
+os = "linux"
+
+    [[Intel_XED.download]]
+    sha256 = "cf6ec1aad6b3cc416691da83e5b36002e2f2428d293ccda5941ba2364ed968dd"
+    url = "https://github.com/JuliaBinaryWrappers/Intel_XED_jll.jl/releases/download/Intel_XED-v2023.8.21+0/Intel_XED.v2023.8.21.x86_64-linux-gnu.tar.gz"
+[[Intel_XED]]
+arch = "x86_64"
+git-tree-sha1 = "23e1781fe19c95d4b503643c8dea32e614f6881b"
+libc = "musl"
+os = "linux"
+
+    [[Intel_XED.download]]
+    sha256 = "fbc10fff1dc5b061074eb9f275941b6c755d3d73c839cde35f6781fa5d098473"
+    url = "https://github.com/JuliaBinaryWrappers/Intel_XED_jll.jl/releases/download/Intel_XED-v2023.8.21+0/Intel_XED.v2023.8.21.x86_64-linux-musl.tar.gz"
+[[Intel_XED]]
+arch = "x86_64"
+git-tree-sha1 = "9be7d4cf4b7dbc1b9855321ace4b057d29a1d92b"
+os = "freebsd"
+
+    [[Intel_XED.download]]
+    sha256 = "154f304d9a9f09382648d7f3270872c24db2e806401319b4fc40450cb01f5b83"
+    url = "https://github.com/JuliaBinaryWrappers/Intel_XED_jll.jl/releases/download/Intel_XED-v2023.8.21+0/Intel_XED.v2023.8.21.x86_64-unknown-freebsd.tar.gz"
